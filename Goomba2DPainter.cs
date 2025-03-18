@@ -14,7 +14,7 @@ class Goomba2DPainter : GoombaAdv, Villain
 
     public override void Move()
     {
-        
+        //previous goomba pos 
         int prevX = x;
         int prevY = y;
 
